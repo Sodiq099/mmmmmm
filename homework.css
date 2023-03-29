@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+.click{
+    width: 100px;
+    padding: 7px;
+    background-color: red;
+    border-radius: 20px;
+}
+.name{
+    width: 30px;
+    color: green;
+    /* background-color: red; */
+    
+}
+.mainClass{
+    background-color: aqua;
+    width: 300px;
+    margin-left: 500px;
+    padding: 40px;
+}
